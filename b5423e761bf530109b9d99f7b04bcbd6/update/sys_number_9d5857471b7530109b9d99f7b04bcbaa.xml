@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_652573_petsadopt_adoptions">x_652573_petsadopt_adoptions</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ADO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 22:48:45</sys_created_on>
+        <sys_id>9d5857471b7530109b9d99f7b04bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ADO</sys_name>
+        <sys_package display_value="PetsAdoption" source="x_652573_petsadopt">b5423e761bf530109b9d99f7b04bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetsAdoption">b5423e761bf530109b9d99f7b04bcbd6</sys_scope>
+        <sys_update_name>sys_number_9d5857471b7530109b9d99f7b04bcbaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 22:48:45</sys_updated_on>
+    </sys_number>
+</record_update>

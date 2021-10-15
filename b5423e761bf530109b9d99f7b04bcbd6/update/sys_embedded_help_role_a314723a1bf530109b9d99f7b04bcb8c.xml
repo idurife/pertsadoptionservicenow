@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_652573_petsadopt.adoptions_user" name="x_652573_petsadopt.adoptions_user">eb143ef61bf530109b9d99f7b04bcbc5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-10 01:32:02</sys_created_on>
+        <sys_id>a314723a1bf530109b9d99f7b04bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eb143ef61bf530109b9d99f7b04bcbc5</sys_name>
+        <sys_package display_value="PetsAdoption" source="x_652573_petsadopt">b5423e761bf530109b9d99f7b04bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PetsAdoption">b5423e761bf530109b9d99f7b04bcbd6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a314723a1bf530109b9d99f7b04bcb8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-10 01:32:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
